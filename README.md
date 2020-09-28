@@ -39,12 +39,3 @@ $ python cloudmare.py target.site --subdomain
 
 Tested on Python 2.7 and Python 3.7, working on Linux and Windows. Feel free to [open an issue] if you have bug reports or questions. If you want to collaborate, you're welcome.
 
-[open an issue]: https://github.com/MrH0wl/Cloudmare/issues/new
-
-## Donate BTC
-
-If you wish, you can invite me to a cup of coffee, it only costs 1 USD.
-
-```
->1LhDVkgjgmygW2at1brUtVii9NKPYM1xni
-```
